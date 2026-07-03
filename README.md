@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7C3AED&height=180&section=header&text=SecureOps%20%7C%20AI%20%7C%20Full-Stack&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Peeyush+%F0%9F%91%8B;AI%2FML+%7C+Full-Stack+Developer;BCA+Student+at+IGNTU;Building+Real%2C+Deployed+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Peeyush;AI%2FML+%7C+Full-Stack+Developer;BCA+Student+at+IGNTU;Building+Real%2C+Deployed+Projects" alt="Typing SVG" />
 
 <br/>
 
@@ -26,11 +26,11 @@
 
 <!-- Sleek Navigation Menu -->
 <p align="center">
-  <a href="#about-me"><b>🧑‍💻 About Me</b></a> • 
-  <a href="#tech-stack"><b>🛠️ Tech Stack</b></a> • 
-  <a href="#featured-projects"><b>🚀 Projects</b></a> • 
-  <a href="#github-statistics"><b>📊 Stats</b></a> • 
-  <a href="#lets-connect"><b>📫 Contact</b></a>
+  <a href="#about-me"><b>About Me</b></a> • 
+  <a href="#tech-stack"><b>Tech Stack</b></a> • 
+  <a href="#featured-projects"><b>Projects</b></a> • 
+  <a href="#github-statistics"><b>Stats</b></a> • 
+  <a href="#lets-connect"><b>Contact</b></a>
 </p>
 
 </div>
@@ -41,20 +41,31 @@
 
 ## About Me
 
-```json
+```bash
 peeyush@system:~$ cat developer.json
+```
+
+```json
 {
   "name": "Peeyush Tiwari",
   "role": "Pre-Final Year BCA Student @ IGNTU, Amarkantak (MP)",
   "cgpa": "8.40 / 10",
-  "focus": ["AI/ML", "Agentic Systems", "Full-Stack Dev", "Offline/Air-Gapped Deployments"],
+  "focus": [
+    "AI/ML",
+    "Agentic Systems",
+    "Full-Stack Dev",
+    "Offline/Air-Gapped Deployments"
+  ],
   "current_work": [
     "Building 'SecureOps AI' — air-gapped predictive copilot for ISRO Bharatiya Antariksh Hackathon 2026",
     "CodeAlpha AI Internship (July–August 2026)",
     "Microsoft Learn Student Ambassador"
   ],
-  "learning": ["NIMCET & CUET PG prep", "Explainable AI (SHAP)"],
-  "philosophy": "Building real, deployed projects, not just toy demos 🚀"
+  "learning": [
+    "NIMCET & CUET PG prep",
+    "Explainable AI (SHAP)"
+  ],
+  "philosophy": "Building real, deployed projects, not just toy demos"
 }
 ```
 
@@ -67,11 +78,11 @@ peeyush@system:~$ cat developer.json
 <table width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 Languages & Frontend</h3>
+      <h3>Languages & Frontend</h3>
       <img src="https://skillicons.dev/icons?i=python,java,kotlin,js,html,css,react,nextjs,vite,threejs&perline=5&theme=dark" alt="Languages and Frontend" />
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 AI, Backend & DevOps</h3>
+      <h3>AI, Backend & DevOps</h3>
       <img src="https://skillicons.dev/icons?i=flask,tensorflow,opencv,numpy,pandas,docker,git,github,firebase,sqlite,vscode,postman&perline=6&theme=dark" alt="AI, Backend and DevOps" />
     </td>
   </tr>
@@ -86,7 +97,7 @@ peeyush@system:~$ cat developer.json
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🛰️ SecureOps AI</h3>
+      <h3>SecureOps AI</h3>
       <p><strong>ISRO Bharatiya Antariksh Hackathon 2026</strong></p>
       <p>An air-gapped predictive copilot designed for satellite network and MPLS operations.</p>
       <ul>
@@ -103,7 +114,7 @@ peeyush@system:~$ cat developer.json
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 AI Face Attendance</h3>
+      <h3>AI Face Attendance</h3>
       <p><strong>CS50x Final Project</strong></p>
       <p>A real-time face recognition attendance system, fully containerized and deployable.</p>
       <ul>
@@ -123,7 +134,7 @@ peeyush@system:~$ cat developer.json
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🕵️ CrimeIQ Intelligence</h3>
+      <h3>CrimeIQ Intelligence</h3>
       <p><strong>Law Enforcement Dashboard</strong></p>
       <p>Bilingual law enforcement analytics platform providing crime intelligence and trends.</p>
       <ul>
@@ -139,7 +150,7 @@ peeyush@system:~$ cat developer.json
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Rakshak AI</h3>
+      <h3>Rakshak AI</h3>
       <p><strong>Security Intelligence Platform</strong></p>
       <p>A modern security web application backed by an event-driven serverless pipeline.</p>
       <ul>
@@ -157,7 +168,7 @@ peeyush@system:~$ cat developer.json
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 SIP Return Predictor</h3>
+      <h3>SIP Return Predictor</h3>
       <p><strong>Financial Forecasting Tool</strong></p>
       <p>A web tool that calculates and forecasts SIP mutual fund investment returns.</p>
       <ul>
@@ -173,7 +184,7 @@ peeyush@system:~$ cat developer.json
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3>🏫 Campus Directory</h3>
+      <h3>Campus Directory</h3>
       <p><strong>Emergency Utility Android App</strong></p>
       <p>A native Android application providing instant access to emergency and utility services.</p>
       <ul>
@@ -199,16 +210,16 @@ peeyush@system:~$ cat developer.json
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Peeyush2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=c9d1d9" height="165" alt="Peeyush's Github Stats" />
+    <td width="50%" align="left" valign="top">
+      <img src="https://github-stats-extended.vercel.app/api?username=Peeyush2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=c9d1d9" height="195" alt="Peeyush's Github Stats" />
     </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peeyush2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" height="165" alt="Peeyush's Top Langs" />
+    <td width="50%" align="left" valign="top">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Peeyush2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" height="195" alt="Peeyush's Top Langs" />
     </td>
   </tr>
 </table>
 
-<div align="center">
+<div align="left">
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Peeyush2006&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7C3AED&currStreakLabel=00F7FF" alt="Peeyush's Streak Stats" />
   <br/><br/>
@@ -221,8 +232,8 @@ peeyush@system:~$ cat developer.json
 
 ## GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Peeyush2006&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7" alt="Peeyush's Trophies" />
+<div align="left">
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=Peeyush2006&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7" alt="Peeyush's Trophies" />
 </div>
 
 <br/>
@@ -231,15 +242,18 @@ peeyush@system:~$ cat developer.json
 
 ## Contribution Snake Game
 
-<div align="center">
-  <!-- Dynamic Contribution Snake SVG generated by github-action -->
-  <img src="https://raw.githubusercontent.com/Peeyush2006/Peeyush2006/output/github-contribution-grid-snake.svg" alt="Git Snake" width="100%" />
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peeyush2006/Peeyush2006/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peeyush2006/Peeyush2006/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Peeyush2006/Peeyush2006/output/github-contribution-grid-snake.svg" alt="Contribution Snake Game" width="100%" />
+  </picture>
 </div>
 
 <br/>
 
 <details>
-<summary><b>🛠️ How to enable this Snake Animation?</b></summary>
+<summary><b>How to enable this Snake Animation?</b></summary>
 
 To automatically generate this animated contribution graph daily, follow these setup instructions:
 
@@ -294,7 +308,7 @@ jobs:
 
 ## Let's Connect
 
-<div align="center">
+<div align="left">
   <p>I'm always open to collaborating on AI/ML projects, hackathons, and open-source contributions.</p>
   
   <a href="mailto:peeyushtiwari03@gmail.com">
@@ -311,7 +325,7 @@ jobs:
 ---
 
 <!-- Dynamic Developer Quote Widget -->
-<div align="center">
+<div align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Tech Quote" />
 </div>
 
